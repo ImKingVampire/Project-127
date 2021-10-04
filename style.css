@@ -1,0 +1,22 @@
+body
+{
+    background-size: cover;
+}
+
+.heading
+{
+    width: 100%;
+    font-size: 25px;
+    margin-top: 0px;
+    box-shadow: 0px 10px 20px paleturquoise;
+}
+
+#play_song
+{
+    width: 200px;
+    height: 40px;
+    font-size: 25px;
+    margin-top: 10px;
+    padding-bottom: 40px;
+    scroll-padding-top: 30px;
+}
